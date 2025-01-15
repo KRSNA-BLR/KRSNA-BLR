@@ -62,10 +62,18 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" style="color:#101820;">E-Commerce Presentation</h3>
+<h3 align="center" style="color:#101820;">
+  <a href="https://github.com/KRSNA-BLR/ecommerce-starter-kit" style="text-decoration: none; color: inherit;">
+    E-Commerce Presentation
+  </a>
+</h3>
 <div align="center">
-<img src="https://github.com/KRSNA-BLR/KRSNA-BLR/blob/main/DANILO-VITERI-E-COMMERCE.jpg" width="400" alt="E-Commerce Presentation">
-<p>Speaking about e-commerce trends and innovations at a professional event.</p>
+  <a href="https://github.com/KRSNA-BLR/ecommerce-starter-kit">
+    <img src="https://github.com/KRSNA-BLR/KRSNA-BLR/blob/main/DANILO-VITERI-E-COMMERCE.jpg" width="400" alt="E-Commerce Presentation">
+  </a>
+  <p>
+    Speaking about e-commerce trends and innovations at a professional event.
+  </p>
 </div>
 </td>
 
