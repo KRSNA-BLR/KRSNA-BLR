@@ -70,14 +70,19 @@
 </td>
 
 <td width="50%">
-<h3 align="center" style="color:#101820;">Cryptocurrency Mining</h3>
-<div align="center">
-<img src="https://github.com/KRSNA-BLR/KRSNA-BLR/blob/main/DANILO-VITERI-CRIPTOMONEDAS.jpg" width="400" alt="Cryptocurrency Mining">
-<p>Demonstrating my expertise in blockchain technologies with a cryptocurrency mining setup.</p>
-</div>
+    <h3 align="center" style="color:#101820;">
+        <a href="https://github.com/KRSNA-BLR/cryptocurrency-mining-setup" style="color:#101820; text-decoration: none;">Cryptocurrency Mining</a>
+    </h3>
+    <div align="center">
+        <a href="https://github.com/KRSNA-BLR/cryptocurrency-mining-setup">
+            <img src="https://github.com/KRSNA-BLR/KRSNA-BLR/blob/main/DANILO-VITERI-CRIPTOMONEDAS.jpg" width="400" alt="Cryptocurrency Mining">
+        </a>
+        <p>Demonstrating my expertise in blockchain technologies with a cryptocurrency mining setup.</p>
+    </div>
 </td>
 </tr>
 </table>
+
 
 ---
 
