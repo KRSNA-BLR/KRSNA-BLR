@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center" style="color:#E10600;">Hello, I'm <a href="https://www.daniloviteri.com" style="color:#101820;">Danilo Viteri Moreno</a> 👋</h1>
 </div>
-<img src="Transformando ideas en código, creando soluciones para el futuro DV.png" alt="Danilo Viteri Banner">
+<img src="Danilo Viteri Key QR code.png" alt="Danilo Viteri Banner">
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect-101820?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-viteri-moreno/)
 [![Personal Website](https://img.shields.io/badge/Website-Visit-E10600?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.daniloviteri.com)
