@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center" style="color:#E10600;">
-  Hello, I'm <a href="https://www.daniloviteri.com" style="color:#101820;">Danilo Viteri Moreno</a> 👋
+  Hello, I'm <a href="https://www.linkedin.com/in/danilo-viteri-moreno/" style="color:#101820;">Danilo Viteri Moreno</a> 👋
 </h1>
 <h3 align="center">
 DevOps & Cloud Engineer | AI Automation & Intelligent Agents | AWS & Azure | IaC | CI/CD | Full Stack
@@ -10,7 +10,6 @@ DevOps & Cloud Engineer | AI Automation & Intelligent Agents | AWS & Azure | IaC
 <img src="Danilo Viteri Key QR code.png" alt="Danilo Viteri Banner">
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect-101820?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-viteri-moreno/)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-E10600?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.daniloviteri.com)
 [![KBASESORIAS](https://img.shields.io/badge/KBASESORIAS-Visit-101820?style=for-the-badge&logo=google&logoColor=white)](https://kbasesorias.com/)
 
 ---
@@ -134,7 +133,6 @@ Cryptocurrency Mining
 ## 📬 **Contact**
 
 - 📧 Email: [dannyviterimoreno@gmail.com](mailto:dannyviterimoreno@gmail.com)
-- 🌐 Website: https://www.daniloviteri.com  
 - 🌐 KBASESORIAS: https://kbasesorias.com/  
 - 💼 LinkedIn: https://www.linkedin.com/in/danilo-viteri-moreno/  
 
